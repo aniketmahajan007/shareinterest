@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shareinterest/build/static/css/main.89e58962.chunk.css",
+    "main.js": "/shareinterest/build/static/js/main.c5459f2c.chunk.js",
+    "main.js.map": "/shareinterest/build/static/js/main.c5459f2c.chunk.js.map",
+    "runtime-main.js": "/shareinterest/build/static/js/runtime-main.b5441832.js",
+    "runtime-main.js.map": "/shareinterest/build/static/js/runtime-main.b5441832.js.map",
+    "static/js/2.26458cb6.chunk.js": "/shareinterest/build/static/js/2.26458cb6.chunk.js",
+    "static/js/2.26458cb6.chunk.js.map": "/shareinterest/build/static/js/2.26458cb6.chunk.js.map",
+    "index.html": "/shareinterest/build/index.html",
+    "precache-manifest.3b6514a679ae2a1996e85795d76ddee9.js": "/shareinterest/build/precache-manifest.3b6514a679ae2a1996e85795d76ddee9.js",
+    "service-worker.js": "/shareinterest/build/service-worker.js",
+    "static/css/main.89e58962.chunk.css.map": "/shareinterest/build/static/css/main.89e58962.chunk.css.map",
+    "static/js/2.26458cb6.chunk.js.LICENSE.txt": "/shareinterest/build/static/js/2.26458cb6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5441832.js",
+    "static/js/2.26458cb6.chunk.js",
+    "static/css/main.89e58962.chunk.css",
+    "static/js/main.c5459f2c.chunk.js"
+  ]
+}
